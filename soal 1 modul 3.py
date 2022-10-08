@@ -1,6 +1,3 @@
-# NAMA : Fathur Rahman
-# NIM : 065002200013
-
 # Program menentukan jenis segitiga
 print("\n==PROGRAM INI AKAN MENENTUKAN JENIS SEGITIGA BERDASARKAN PANJANG SISI==")
 panjang1 = int(input("Masukkan nilai panjang sisi A: "))
